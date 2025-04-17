@@ -1,2 +1,1 @@
-# prepared-tech-blog
-prepared-tech-blog
+# prepared-tech-blog (숯돌)
